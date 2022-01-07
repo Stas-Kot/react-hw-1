@@ -1,0 +1,14 @@
+.label {
+  display: block;
+  margin-bottom: 8px;
+
+  font-size: 12px;
+}
+
+.item {
+  padding: 10px;
+}
+
+.percentage {
+  font-size: 18px;
+}

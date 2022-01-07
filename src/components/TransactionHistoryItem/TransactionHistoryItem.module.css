@@ -1,0 +1,17 @@
+.transactionTR {
+  text-transform: capitalize;
+  text-align: center;
+  padding: 20px;
+}
+
+.transactionTR:nth-child(even) {
+  background-color: gainsboro;
+}
+
+.type {
+  display: block;
+  text-align: left;
+  margin-left: 100px;
+  padding: 20px;
+  margin-right: auto;
+}
