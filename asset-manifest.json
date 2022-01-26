@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hw-1/static/css/main.54836bed.css",
+    "main.js": "/react-hw-1/static/js/main.44c318d3.js",
+    "index.html": "/react-hw-1/index.html",
+    "main.54836bed.css.map": "/react-hw-1/static/css/main.54836bed.css.map",
+    "main.44c318d3.js.map": "/react-hw-1/static/js/main.44c318d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54836bed.css",
+    "static/js/main.44c318d3.js"
+  ]
+}
